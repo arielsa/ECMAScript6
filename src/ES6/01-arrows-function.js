@@ -10,6 +10,8 @@
     return numero*numero;
  }
 
+ (ture)
+
  const cuadrado3= numero=> numero*numero; // return implicito.
  
  /////// con las arrow function tenemos otra sintaxis. y si el argumento
